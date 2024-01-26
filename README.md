@@ -111,7 +111,6 @@ A base de dados consiste em um arquivo CSV com a estrutura abaixo:
 
 # Ferramentas Utilizadas no Projeto
 * Power BI para o desenvolvimento do Dashboard
-* Google Colab para as etapas de exploração e tratamento dos dados, utilizando a linguagem Python.
 
 
 # Tratamento dos Dados
