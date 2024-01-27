@@ -120,6 +120,10 @@ Exclusão de valores nulos presentes na variável Salario Anual
 
 Exclusão de outlaiers - variável Salário Anual - valor aparentemente errado 
 
+Criação de uma nova coluna TOTAL GASTO com expressão DAX - SUMX
+
+Alteração das variáveis COMPRA NA CAMPANHA de numérica para categórica
+
 # Métricas Analisadas
 **Visão Cliente**
 1. Total de Clientes Cadastrados
