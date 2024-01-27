@@ -114,9 +114,6 @@ A base de dados consiste em um arquivo CSV com a estrutura abaixo:
 
 
 # Tratamento dos Dados
-Converter a variável "comprou" de numerica para categórica
-
-Exclusão de valores nulos presentes na variável Salario Anual
 
 Exclusão de outlaiers - variável Salário Anual - valor aparentemente errado 
 
@@ -145,6 +142,12 @@ Alteração das variáveis COMPRA NA CAMPANHA de numérica para categórica
 
 **Visão da Performance das Campanhas de Marketing**
 
-1. Total de Compras do cliente
+1. Efetividade da Campanha x Número de Filhos
+2. Resultado da Campanha de Marketing
+3. Média de Salário Anual x Resultado da Campanha
+4. Resultado Geral da Campanha segmentado por Escolaridade, Estado Civil e País
 
-# Link do Dashboard
+**Visão dos Padrões de Compra por Ponto de Venda**
+
+1. Total Gasto em Diferentes Categorias por País
+2. Total Gasto por Ano e País
